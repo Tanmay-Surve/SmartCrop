@@ -78,7 +78,6 @@ sklearn==0.0
 terminado==0.9.1
 testpath==0.4.4
 torch==1.13.1
-torchaudio==2.4.0
 torchvision==0.19.0
 tornado==6.1
 traitlets==5.0.5
