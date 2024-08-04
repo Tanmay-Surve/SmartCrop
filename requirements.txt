@@ -9,3 +9,4 @@ requests==2.31.0
 scikit-learn==1.5.1
 jinja2==2.10.1
 markupsafe==1.1.1
+gunicorn==19.7.1
